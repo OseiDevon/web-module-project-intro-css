@@ -98,10 +98,11 @@ body{
 .boxtwo{
   display: inline-block;
   width: 20%;
-  margin: 0 10%;
+  margin: 10px 10%;
 }
 
 .boxthree{
+
   display: inline-block;
   text-align: center;
   width: 50%;
@@ -130,7 +131,7 @@ body{
 .wholem {
   text-align: center;
   width: 60%;
-  margin: 0 auto;
+  margin: 10% auto;
 
 }
 
