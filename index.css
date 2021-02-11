@@ -59,46 +59,92 @@ body{
   font-size:1.6rem ;
   color: #4F4F4F;
 }
-.boxone nav a{
+.boxone a{
   margin: 0 10px;
   padding: 20px;
   display: inline-block;
   color: black;
-  text-align: center;
+
   text-decoration: none;
+  max-width: 90%;
 
 }
 .plan{
+  margin: 0 7%;
   display: inline-block;
   border: 1px solid lightgray;
   border-radius: 20px;
   background-color: #FF764E;
+  text-align: center;
 
 }
 .learn{
+  margin: 0 7%;
   display: inline-block;
   border: 1px solid lightgray;
   border-radius: 20px;
   background-color: #5ED3EB;
+  text-align: center;
 
 }
 .get{
+  margin: 0 7%;
   display: inline-block;
   border: 1px solid lightgray;
   border-radius: 20px;
   background-color: #FFCD69;
+  text-align: center;
 }
-
 .boxtwo{
   display: inline-block;
+  width: 20%;
+  margin-right: 20%;
 }
- .image {
-   width: 25%;
-   border: 1px solid white;
-   border-radius: 50%;
-   display: inline-block;
+
+.boxthree{
+  display: inline-block;
+  text-align: center;
+  width: 50%;
+}
+ .image1 img {
+   border-radius: 1000px;
+
 
  }
 .yose{
-  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  font-size: 3rem;
+
 }
+
+.text{
+  width: 90%;
+  margin: 0 auto;
+  background-color: #DDB9A3;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.wholem {
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+
+}
+
+.middlei{
+  width: 40%;
+  margin: 0 auto;
+}
+ .footie{
+   background-color: #F9E7DC;
+   margin-top: px;
+ }
+ .footpic{
+
+ }
+ .boldit{
+   font-weight: bold;
+ }
